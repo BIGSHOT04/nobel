@@ -90,14 +90,14 @@ namespace nobel
             // 
             this.textBox1.Location = new System.Drawing.Point(117, 51);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(59, 20);
             this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(117, 95);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
+            this.textBox2.Size = new System.Drawing.Size(193, 20);
             this.textBox2.TabIndex = 6;
             // 
             // textBox3
@@ -111,7 +111,7 @@ namespace nobel
             // 
             this.textBox4.Location = new System.Drawing.Point(117, 188);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
+            this.textBox4.Size = new System.Drawing.Size(59, 20);
             this.textBox4.TabIndex = 8;
             // 
             // Form1

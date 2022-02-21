@@ -10,14 +10,19 @@ using System.Windows.Forms;
 
 namespace nobel
 {
-    public partial class Form1 : Form
+    public partial class nobel : Form
     {
-        public Form1()
+        public nobel()
         {
             InitializeComponent();
         }
 
         private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
         {
 
         }

@@ -1,7 +1,7 @@
 ﻿
 namespace nobel
 {
-    partial class Form1
+    partial class nobel
     {
         /// <summary>
         /// Required designer variable.
@@ -114,7 +114,7 @@ namespace nobel
             this.textBox4.Size = new System.Drawing.Size(59, 20);
             this.textBox4.TabIndex = 8;
             // 
-            // Form1
+            // nobel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -128,8 +128,9 @@ namespace nobel
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "nobel";
+            this.Text = "nobel";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
